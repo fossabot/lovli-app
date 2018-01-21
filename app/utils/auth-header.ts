@@ -1,4 +1,4 @@
-import { settingsService } from "../services/index";
+import { settingsService } from "../services/settings.service";
 
 export function authHeader() {
   // return authorization header with jwt token

@@ -2,7 +2,7 @@ import * as React from 'react';
 import Grid from 'material-ui/Grid/Grid';
 import withStyles, { StyleRulesCallback, WithStyles } from 'material-ui/styles/withStyles';
 import { Users } from '../../users/model';
-import { settingsService } from '../../services/index';
+import { settingsService } from '../../services/settings.service';
 import UserCard from './UserCard';
 import LibraryChartCard from './LibraryChartCard';
 import SyncOverviewCard from './SyncOverviewCard';

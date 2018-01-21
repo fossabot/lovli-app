@@ -1,5 +1,4 @@
 import reducer, { updateToolState} from '../../../app/tools';
-import { Tool } from '../../../app/tools/model';
 import { initialTools } from '../../../app/tools/reducer';
 
 describe('tools reducer', () => {
@@ -11,7 +10,6 @@ describe('tools reducer', () => {
     });
 
     it('should handle updateToolState', () => {
-			const testToolID:number = 1; // second tool
 			const newState:number = 2;
 			const updatedTool = initialTools[0];
 			updatedTool.state = 2;

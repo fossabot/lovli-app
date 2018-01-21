@@ -4,7 +4,7 @@ import withStyles, { StyleRulesCallback, WithStyles } from 'material-ui/styles/w
 import { User } from '../../users/model';
 import Card from 'material-ui/Card/Card';
 import CardContent from 'material-ui/Card/CardContent';
-import { settingsService } from '../../services/index';
+import { settingsService } from '../../services/settings.service';
 import Button from 'material-ui/Button/Button';
 import CardActions from 'material-ui/Card/CardActions';
 import Typography from 'material-ui/Typography/Typography';

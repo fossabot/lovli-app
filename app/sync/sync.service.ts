@@ -1,6 +1,6 @@
 import {
 	settingsService
-} from "../services/index";
+} from "../services/settings.service";
 
 
 
