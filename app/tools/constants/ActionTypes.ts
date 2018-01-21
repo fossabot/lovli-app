@@ -1,0 +1,6 @@
+export const ADD_TOOL = 'ADD_TOOL';
+export const DELETE_TOOL = 'DELETE_TOOL';
+export const TOOLS_UPDATE_STATE = 'TOOLS_UPDATE_STATE';
+export const TOOLS_ENABLE_TOOL = 'TOOLS_ENABLE_TOOL';
+export const COMPLETE_ALL = 'COMPLETE_ALL';
+export const CLEAR_COMPLETED = 'CLEAR_COMPLETED';
