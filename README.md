@@ -2,6 +2,7 @@
 
 [![Build Status][travis-image]][travis-url]
 [![Greenkeeper badge](https://badges.greenkeeper.io/sawy/lovli-app.svg)](https://greenkeeper.io/)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsawy%2Flovli-app.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsawy%2Flovli-app?ref=badge_shield)
 
 Ä Lövli Äpp für din Lövli Workflow"
 
@@ -196,3 +197,6 @@ MIT © [S. Wyss](https://github.com/sawy)
 [david_img]: https://img.shields.io/david/chentsulin/electron-react-boilerplate.svg
 [david_site]: https://david-dm.org/chentsulin/electron-react-boilerplate
 
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fsawy%2Flovli-app.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fsawy%2Flovli-app?ref=badge_large)
