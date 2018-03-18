@@ -163,7 +163,7 @@
     "webpack": "^3.3.0",
     "webpack-dev-middleware": "^2.0.3",
     "webpack-hot-middleware": "^2.13.2",
-    "webpack-jarvis": "^0.2.0",
+    "webpack-jarvis": "^0.3.0",
     "webpack-merge": "^4.1.1"
   },
   "dependencies": {
